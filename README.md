@@ -1,9 +1,9 @@
 # Infographics-and-whitepapers
-Overview
+# Overview
 
 Welcome to my GitHub space for sharing infographics and white papers focused on healthcare market trends, industry challenges, and digital therapeutics. These publications are designed to provide insights and facilitate discussions.
 
-Featured Publications
+# Featured Publications
 
 This repository includes a collection of my work analyzing key developments in the healthcare marketplace:
 
@@ -17,7 +17,7 @@ Prescription Digital Therapeutics – A deep dive into the rise and impact of pr
 
 Coverage at the Forefront of Genetic Testing – An analysis of payer coverage and policy evolution in genetic testing.
 
-Research & Methodology
+# Research & Methodology
 
 The publications are developed using a mix of primary and secondary research methodologies:
 
@@ -27,7 +27,7 @@ Secondary Research – Gathering and analyzing industry data to contextualize in
 
 Data Management & Visualization – Extracting and processing data using SQL and Excel to create compelling, data-driven visualizations.
 
-Usage & Restrictions
+#Usage & Restrictions
 
 These materials are intended strictly for informational purposes only. They should not be used for commercial, legal, or decision-making purposes without further verification from authoritative sources. Unauthorized distribution or modification is not permitted.
 
