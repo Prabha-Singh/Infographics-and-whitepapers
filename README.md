@@ -5,17 +5,17 @@ Welcome to my GitHub space for sharing infographics and white papers focused on 
 
 # Featured Publications
 
-This repository includes a collection of my work analyzing key developments in the healthcare marketplace:
+## This repository includes a collection of my work analyzing key developments in the healthcare marketplace:
 
-100 Years of Diabetes Management Evolution – A historical perspective on advancements in diabetes care.
+## 100 Years of Diabetes Management Evolution – A historical perspective on advancements in diabetes care.
 
-Summary of Digital Therapeutics – An overview of the role and adoption of digital therapeutics in healthcare.
+## Summary of Digital Therapeutics – An overview of the role and adoption of digital therapeutics in healthcare.
 
-Payer Treatment of Prescription Digital Behavior Therapy – Insights into payer coverage and reimbursement policies.
+## Payer Treatment of Prescription Digital Behavior Therapy – Insights into payer coverage and reimbursement policies.
 
-Prescription Digital Therapeutics – A deep dive into the rise and impact of prescription-based digital treatments.
+## Prescription Digital Therapeutics – A deep dive into the rise and impact of prescription-based digital treatments.
 
-Coverage at the Forefront of Genetic Testing – An analysis of payer coverage and policy evolution in genetic testing.
+## Coverage at the Forefront of Genetic Testing – An analysis of payer coverage and policy evolution in genetic testing.
 
 # Research & Methodology
 
